@@ -1,6 +1,6 @@
 # Hello, It's Hanseo! Nice to meet you.
 
-## I'm a passionate developer interested in 'OSS', 'DevOps', 'cloud computing'.
+## I'm a passionate developer interested in OSS, DevOps, cloud computing.
 
 ## I’m currently
 - working on 'The 2nd Open Source Contribution Academy Regional Sprint @Cheongju 2023',
