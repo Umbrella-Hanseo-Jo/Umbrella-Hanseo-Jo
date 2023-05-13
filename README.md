@@ -7,7 +7,7 @@
 - working on 'OSS Operations Assistant at CBNU @2023', 
 - working on 'The web development project for EMSYS, a club in the School of Computer Science at CBNU @2023', 
 - working on 'Support for Education Activities of Disabled College Students at CBNU @2023'. 
-- learning the C language, C#, Docker, Kubernetes.
+- learning the C#, C language, Docker, Kubernetes.
 - studying data structures, computer architecture, and linear algebra.
 
 ## I’m looking to collaborate on Linux.
