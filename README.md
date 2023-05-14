@@ -3,7 +3,7 @@
 ## I'm a passionate developer interested in OSS, DevOps, cloud computing.
 
 ## I’m currently
-- working on 'The 2nd Open Source SW Contribution Academy Regional Sprint @Cheongju 2023',
+/* working on 'The 2nd Open Source SW Contribution Academy Regional Sprint @Cheongju 2023', */
 - working on 'OSS Operations Assistant at CBNU @2023', 
 - working on 'The web development project for EMSYS, a club in the School of Computer Science at CBNU @2023', 
 - working on 'Support for Education Activities of Disabled College Students at CBNU @2023'. 
